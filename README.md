@@ -1,6 +1,6 @@
 # AtliQ Motors - EV/Hybrid Market Analysis in India
 ## Project Overview
-AtliQ Motors, a U.S.-based automotive leader in electric vehicles (EV), holds a strong presence in North America with a 25% market share in the EV and hybrid vehicle segment. As part of their global expansion, AtliQ aims to introduce their bestselling EV models in India, where their market share is currently below 2%. Bruce Haryali, Chief of AtliQ Motors India, commissioned a detailed study of the Indian EV/Hybrid market to understand local dynamics and assess potential growth avenues. This project was assigned to the AtliQ Motors data analytics team, led by data analyst Peter Pandey.
+AtliQ Motors, a U.S.-based automotive leader in electric vehicles (EV), holds a strong presence in North America with a 25% market share in the EV and hybrid vehicle segment. As part of their global expansion, AtliQ aims to introduce their bestselling EV models in India, where their market share is currently below 2%. Bruce Haryali, Chief of AtliQ Motors India, commissioned a detailed study of the Indian EV/Hybrid market to understand local dynamics and assess potential growth avenues. 
 
 ## Project Goals
 Market Analysis: To evaluate the current EV/Hybrid market landscape in India, including competitors, pricing, and consumer preferences.
